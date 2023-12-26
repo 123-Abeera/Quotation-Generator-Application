@@ -13,8 +13,6 @@
 7-Settings Option in HomeScreen have Settings Options(for UserProfile- Settings only :( )
 
 All Done :(
-
-
 ![OnBoardingScreen1](https://github.com/123-Abeera/Quotation-Generator-Application/assets/99583531/41bbe10a-2cc1-4513-9113-0d08ac3d03d6)
 ![OnBoardingScreen2](https://github.com/123-Abeera/Quotation-Generator-Application/assets/99583531/d0d4a4e7-776a-4c10-990c-91392cc6d803)
 ![OnBoardingScreen3](https://github.com/123-Abeera/Quotation-Generator-Application/assets/99583531/79db2c0a-b035-4d26-9e6f-5c6d11fe6ac0)
