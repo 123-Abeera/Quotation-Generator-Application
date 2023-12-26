@@ -1,9 +1,15 @@
-1- At Ftrst Splash Screen will appear(in App.tsx code)
+1- At First Splash Screen will appear(in App.tsx code)
+
 2- then OnBoardingScreens will appear
+
 3- SignUp with Authentication firebase
+
 4-SignIn with Authentication
+
 5- ForgotPasswordScreen code in (SignIn.js Code) //Alert will atomatically appear and email sent for password
+
 6- HomeScreen for Quotation
+
 7-Settings Option in HomeScreen have Settings Options(for UserProfile- Settings only :( )
 
 All Done :(
