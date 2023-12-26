@@ -3,4 +3,6 @@
 ![OnBoardingScreen3](https://github.com/123-Abeera/Quotation-Generator-Application/assets/99583531/79db2c0a-b035-4d26-9e6f-5c6d11fe6ac0)
 ![SignUpScreen](https://github.com/123-Abeera/Quotation-Generator-Application/assets/99583531/ec2e5902-9561-4d47-b4e6-de8d867ae7ff)
 ![SignInScreen](https://github.com/123-Abeera/Quotation-Generator-Application/assets/99583531/0c0a9c67-f8c5-4e42-82f8-ccf593349dfa)
+![HomeScreen](https://github.com/123-Abeera/Quotation-Generator-Application/assets/99583531/8f40c4e8-67bf-4b48-9a9b-77c6ed407557)
 ![Settings-UserProfileScreen](https://github.com/123-Abeera/Quotation-Generator-Application/assets/99583531/37295326-3129-47d7-8ab2-d7771f949dca)
+
