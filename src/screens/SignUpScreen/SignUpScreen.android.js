@@ -1,11 +1,11 @@
-// SignInScreen.android.js
+// SignUpScreen.android.js
 
 import React from 'react';
 import SignUpScreen from '../../screens/SignUpScreen';
 
-const SignInScreenAndroid = (props) => {
+const SignUpScreenAndroid = (props) => {
  
   return <SignUpScreen {...props} />;
 };
 
-export default SignInScreenAndroid;
+export default SignUpScreenAndroid;
