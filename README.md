@@ -2,7 +2,7 @@
 
 2- then OnBoardingScreens will appear
 
-3- SignUp with Authentication firebase.
+3- SignUp with Authentication firebase
 
 4-SignIn with Authentication
 
